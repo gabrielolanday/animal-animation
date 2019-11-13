@@ -26,3 +26,5 @@ function initialClick(e) {
   document.addEventListener("mousemove", move, false);
 
 }
+
+// this code was adapted from https://stackoverflow.com/questions/33948464/move-an-image-with-javascript-using-mouse-events
