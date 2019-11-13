@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{
+  background-color: #ff8533;
+  color: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#bgContent{
+  display: grid;
+  grid-row-gap: 9vmin;
+  justify-items: center;
+}
+
+#contentGrid{
+  display: flex;
+}
+
+#hat{
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  cursor: pointer;
+}
+
+/* #stache{
+  width: 60px;
+  height: 25px;
+  position: absolute;
+} */
